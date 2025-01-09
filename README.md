@@ -6,7 +6,7 @@ Welcome to my GitHub! I’m not a developer, but I’m here to explore, learn, a
 - 🌍 **Location:** Netherlands  
 - 💻 **Interests:**  
   - Exploring open-source projects  
-  - Learning code (Not really, just curious and one repo at a time 😊)  
+  - Learning code (Maybe, more curious and one repo at a time 😊)  
   - Documenting my learning journey  
 
 ## 💡 What I’m Doing Here Then?
